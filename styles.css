@@ -397,7 +397,9 @@ div.footer h6 {
         padding: 2vh auto;
         width: 100vw;
     }
-        
+    div.background>h4{
+        padding-top: 0px !important;
+    }
     div.hero-background-pos{
         right: 0%;
     }
